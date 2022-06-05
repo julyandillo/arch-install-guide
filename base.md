@@ -59,7 +59,7 @@ Después de instalar el sistema base generamos el archivo fstab
 
 > \# genfstab -U / mnt >> /mnt/etc/fstab
 
-(con -U o -L especificamos, respectivamente, en dicho archivo las UUID o las etiquetas de las particiones)
+(con -U o -L especificamos, respectivamente, si queremos que en el fstab aparezcan las UUID o las etiquetas de las particiones)
 
 Una vez hecho esto, ya podemos cambiar al nuevo sistema
 
