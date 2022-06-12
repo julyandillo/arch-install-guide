@@ -91,8 +91,7 @@ Y español como la distribución del teclado para que permanezca después de cad
 
 > \# echo "elnombredemiequipo" > /etc/hostname
 
-> /etc/hosts
-
+Añadimos las siguientes líneas al fichero `/etc/hosts`
 > 127.0.0.1     localhost  
 > ::1           localhost  
 > 127.0.1.1     elnombredemiequipo.localdomain elnombredemiequipo
@@ -136,7 +135,7 @@ Para que después de reiniciar el sistema de conecte a la red, debemos habilitar
 
 ### Desmontamos particiones y reiniciamos el sistema
 
-> \# exit (para salir del sistema, sino no dejará desmontar)
+> \# exit (para salir del sistema, sino no dejará desmontar las particiones)
 
 > \# umount -R /mnt
 
