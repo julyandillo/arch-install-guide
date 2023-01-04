@@ -1,17 +1,19 @@
 # Intalacion de KDE Plasma con escritorio
 
-Antes de instalar es escritorio necesitamos los paquetes del servidor gráfico y los controladores de nuestra tarjeta gráfica.
+Antes de instalar el entorno de escritorio necesitamos los paquetes del servidor gráfico y los controladores de nuestra tarjeta gráfica.
 
 > \#sudo pacman -S xorg xorg-server
 
-Dependiendo del modelo de gráfica que tengamos instalamos los drivers correspondientes
+Dependiendo del modelo de gráfica que tengamos instalamos los drivers correspondientes:
 
-### Nvidia
+#### Nvidia
 
 > \# sudo pacman -S nvidia nvidia-utils nvidia-settings
 
-### AMD
+#### AMD
 
-> \#sudo pacman -S amd
+> \#sudo pacman -S xf86-video-amdgpu
 
-### Intel
+#### Intel
+
+> \#sudo pacman -S xf86-video-intel
