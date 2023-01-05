@@ -15,3 +15,9 @@ Otis (https://store.kde.org/p/1619506)
 
 #### Esquema de color para el borde las ventanas GTK
 Dracula
+
+#### Tema para SSDM
+Swish
+
+#### Splashscreen
+Quarksplash darker
