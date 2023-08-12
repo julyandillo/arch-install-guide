@@ -6,29 +6,31 @@ La Capitaine (se puede instalar desde aur)
 Plaguesur
 
 #### Estilo de las aplicaciones
-Lightly
+Lightly  
 Lightlyshaders
 
 #### Esquemas de color
+Aritim (dark y light)  
 Layan light  
 Helium  
-Dracula (ant-themes)
-Andromeda
+Dracula (ant-themes)  
+Andromeda (también para konsole)
 
 #### Estilo de plasma
-Amethyst
-Andromeda
+Amethyst  
+Andromeda  
+Aritim  
 Lace  
-Miya 
+Miya  
 Sara
 
 #### Estilo de las aplicaciones GTK
 Otis (https://store.kde.org/p/1619506)  
-Dracula
+Dracula  
 Andromeda
 
 #### Esquema de color para el borde las ventanas GTK
-Dracula
+Dracula  
 Andromeda
 
 #### Tema para SSDM
