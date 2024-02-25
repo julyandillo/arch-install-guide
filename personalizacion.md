@@ -3,7 +3,10 @@
 #### Iconos
 Antu Classic  
 La Capitaine (se puede instalar desde aur)  
-Plaguesur
+Plaguesur  
+Papirus (está en los reposirorios, tiene iconos para filezilla, thunderbird, libreoffice, https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
+Kora (está en aur como kora-icon-theme) 
+FairyWren
 
 #### Estilo de las aplicaciones
 Lightly  
@@ -14,7 +17,8 @@ Aritim (dark y light)
 Layan light  
 Helium  
 Dracula (ant-themes)  
-Andromeda (también para konsole)
+Andromeda (también para konsole) 
+Otto
 
 #### Estilo de plasma
 Amethyst  
@@ -27,7 +31,8 @@ Sara
 #### Estilo de las aplicaciones GTK
 Otis (https://store.kde.org/p/1619506)  
 Dracula  
-Andromeda
+Andromeda  
+Aritim
 
 #### Esquema de color para el borde las ventanas GTK
 Dracula  
