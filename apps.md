@@ -1,0 +1,6 @@
+- Flameshot (para hacer recortes de pantalla)
+- Postman
+- Soapui
+- Dbeaver Dbeaver-plugin-office
+- Beekeeper (nuevo gui para SQLSERVER)
+- Obsidian (para escribir en markdown)
