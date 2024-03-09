@@ -18,7 +18,8 @@ Layan light
 Helium  
 Dracula (ant-themes)  
 Andromeda (también para konsole) 
-Otto
+Otto 
+Adapta
 
 #### Estilo de plasma
 Amethyst  
