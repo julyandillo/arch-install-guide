@@ -30,13 +30,13 @@ Para crear las particiones usamos
 
 donde *sdx* habrá que sustituirlo por el dispositivo donde queramos crear las particiones. En una instalación básica se recomienda tener como mínimo 2 particiones, 512MB para la partición de arranque y otra del tamaño deseado para la instalación del sistema. También podemos crear una partición adicional para la swap del sistema, pero en mi caso prefiero configurar la swap como un fichero (para conocer más detalles sobre la gestión de la swap en arch visitar la [wiki](https://wiki.archlinux.org/title/Swap))
 
-Una vez creadas las particiones, hay que darles el formato correcto y montarlas dentro de */mnt*. En este caso, vamos a suponer que hemos hecho 3 particiones, una para el arranque, otra para el sistema base y la home, y una independiente para almecenar datos.
+Una vez creadas las particiones, hay que darles el formato correcto y montarlas dentro de */mnt*. En este caso, vamos a suponer que hemos hecho 3 particiones, una para el arranque, otra para el sistema base y la home, y una independiente para almacenar datos.
 
 > \# mkfs.fat -F 32 /dev/sda1 (partición para el arranque del sistema en FAT32)
 
 > \# mkfs.ext4 /dev/sda2 (está será la partición raíz del sistema)
 
-> \# mkfs.ext4 /dev/sda3 (partición adicional para almecenar datos)
+> \# mkfs.ext4 /dev/sda3 (partición adicional para almacenar datos)
 
 Antes de montar las particiones hay que crear las carpetas de destino del punto de montaje
 

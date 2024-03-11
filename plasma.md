@@ -1,4 +1,4 @@
-# Intalacion de KDE Plasma con escritorio
+# Intalación de KDE Plasma con escritorio
 
 Antes de instalar el entorno de escritorio necesitamos los paquetes del servidor gráfico y los controladores de nuestra tarjeta gráfica.
 
