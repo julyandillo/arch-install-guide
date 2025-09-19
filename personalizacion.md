@@ -5,9 +5,10 @@
 Antu Classic  
 La Capitaine (se puede instalar desde aur)  
 Plaguesur  
-Papirus (está en los reposirorios, tiene iconos para filezilla, thunderbird, libreoffice, <https://github.com/PapirusDevelopmentTeam/papirus-icon-theme>)  
+Papirus (está en los reposirorios, tiene iconos para filezilla, thunderbird, libreoffice, <https://github.com/PapirusDevelopmentTeam/papirus-icon-theme>) 
 Kora (está en aur como kora-icon-theme)
 FairyWren
+Colloid
 
 #### Estilo de las aplicaciones
 
@@ -41,6 +42,7 @@ Otis (<https://store.kde.org/p/1619506>)
 Dracula  
 Andromeda  
 Aritim
+Jade/Jade Dracula
 
 #### Esquema de color para el borde las ventanas GTK
 
